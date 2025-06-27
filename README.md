@@ -1,6 +1,7 @@
 # -wsl-install-
 # Dillinger
 ## _The Last Markdown Editor, Ever_
+<img src="https://www.kali.org/images/kali-logo.svg" alt="Logo do Kali Linux" width="200">
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
