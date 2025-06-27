@@ -53,7 +53,7 @@ to Markdown converter
 
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
-<center><img src="https://www.kali.org/images/kali-logo.svg" alt="Logo do Kali Linux" width="200"></center>
+<center><img src="https://prnt.sc/1CJokuJ9rDJZ" alt="Logo do Kali Linux" width="200"></center>
 
 
 For production release:
